@@ -1,16 +1,24 @@
-# Rails Blog Challenge
+# README
 
-Build a blog application using Rails and deploy it to Heroku.  There are many guides to building a Rails blog available online—some better than others.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-To submit your solution, add a link to your app to this README file under the submissions heading:
+Things you may want to cover:
 
-```
-### Submissions
-[John](http://majestic-stallion-0001.herokuapp.com)
-```
+* Ruby version
 
-Then issue a pull request.
+* System dependencies
 
-### Submissions
-- Link to your blog here
-http://railsblog-matty.herokuapp.com/
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
